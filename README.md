@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @UkashaMusa
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning  web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @UkashaMusa  
+👀 I’m interested in cybersecurity, full‑stack web development, and 3D art  
+🌱 I’m currently learning Next.js and advanced Blender techniques  
+💞️ I’m looking to collaborate on educational platforms, Web3 integrations, and interactive 3D visualizations  
+📫 How to reach me: umusa7677@gmail.com| WhatsApp:+250 792 402 035 
+😄 Pronouns: he/him  
+⚡ Fun fact: I’m an ISC2 Certified in Cybersecurity and a self‑taught Blender 3D artist  
+
 
 <!---
 UkashaMusa/UkashaMusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

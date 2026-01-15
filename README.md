@@ -1,6 +1,6 @@
 👋 Hi, I’m @UkashaMusa  
-👀 I’m interested in QA Engineer|web development | 3D art |  
-🌱 I’m currently learning Next.js and advanced Blender techniques  
+👀 I’m interested in QA Engineer | web development | 3D art |  
+🌱 advanced Blender techniques  
 💞️ I’m looking to collaborate on educational platforms, Web3 integrations, and interactive 3D visualizations  
 📫 How to reach me: umusa7677@gmail.com | WhatsApp:+250 792 402 035 
 😄 Pronouns: he/him  
